@@ -1,6 +1,6 @@
 # Antipado-portfolio
 
-1.
+1. Home section, Activity section, Project Section, Message, Contact / footer
 
 2. Reflection
 
